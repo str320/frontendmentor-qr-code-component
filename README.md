@@ -47,7 +47,7 @@ The importance of using meaningful class names to make styling easier.
 
 2️⃣ Using CSS for Layout & Styling
 How to apply a CSS Reset to ensure consistency across browsers.
-The benefits of using a design system with CSS variables ``(:root {})`` to make styles reusable.
+The benefits of using a design system with CSS variables `(:root {})` to make styles reusable.
 How to properly style a container with padding, margins, background colors, and rounded corners.
 
 3️⃣ Centering Elements with Flexbox
