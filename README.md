@@ -55,8 +55,8 @@ The best way to center a card vertically and horizontally using display: flex; j
 How height: 100vh; on <main> helps the container take up the full screen height.
 
 4️⃣ Debugging & Refinement
-The importance of checking for typos ``(like --clr-card-backgroung instead of --clr-card-background)``.
-How to use correct variable names in CSS ``(font-size should use --fs-heading, not --fw-heading)``.
+The importance of checking for typos `(like --clr-card-backgroung instead of --clr-card-background)`.
+How to use correct variable names in CSS `(font-size should use --fs-heading, not --fw-heading)`.
 How to optimize padding and margins to avoid unnecessary styles.
 
 5️⃣ Testing & Final Touches
